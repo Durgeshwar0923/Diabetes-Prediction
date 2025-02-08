@@ -1,1 +1,1 @@
-# Diabetes-Prediction
+The primary goal of this project is to develop a machine learning model that can predict whether a person has diabetes based on various health indicators. This is achieved by training and evaluating three different classification models: Support Vector Machine (SVM), Random Forest, and Logistic Regression. The model with the highest accuracy is selected as the best-performing classifier.
